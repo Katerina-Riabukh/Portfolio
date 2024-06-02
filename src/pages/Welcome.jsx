@@ -1,4 +1,4 @@
-import Photo from '../images/My-photo.png';
+// import Photo from '../images/My-photo.png';
 import PhotoRevers from '../images/MyPhotoRevers.png';
 import { Container, PhotoBlock } from './main.styled';
 
